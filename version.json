@@ -1,5 +1,5 @@
 {
-  "versao": "1.1.0",
+  "versao": "1.2.0",
   "url": "https://github.com/lucasvbcampos/gerador-requisicoes/releases/latest/download/GeradorRequisicoes-Setup.exe",
-  "notas": "Nova versão com atualização automática, histórico, temas e mais."
+  "notas": "NOVIDADE: busca automática dos itens da licitação (digite UASG + número e pronto, sem colar tabela). O download de resultados e atas agora usa a base oficial do governo (PNCP) — funciona mesmo com o ComprasNet fora do ar e é muito mais rápido."
 }
