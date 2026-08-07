@@ -1,5 +1,5 @@
 {
-  "versao": "1.2.1",
+  "versao": "1.2.3",
   "url": "https://github.com/lucasvbcampos/gerador-requisicoes/releases/latest/download/GeradorRequisicoes-Setup.exe",
-  "notas": "Preenchimento automático: valores em R$, datas com barra e o nome da OM pela UASG. O SI já vem sugerido pelo tipo do item. Correção do cálculo do valor total. Vários ajustes de digitação."
+  "notas": "CORREÇÃO IMPORTANTE: itens com unidade só em número (ex.: \"5,00\") sem R$ na tabela estavam saindo com o preço trocado. Também corrigida a leitura de atas grandes que perdiam itens (unidade ficava em branco) e a Pesquisa de Preço, que podia não cotar nenhum item em algumas compras. Atualize para gerar requisições com os valores corretos."
 }
