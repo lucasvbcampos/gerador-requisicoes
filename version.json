@@ -1,5 +1,5 @@
 {
-  "versao": "1.2.3",
+  "versao": "1.2.5",
   "url": "https://github.com/lucasvbcampos/gerador-requisicoes/releases/latest/download/GeradorRequisicoes-Setup.exe",
-  "notas": "CORREÇÃO IMPORTANTE: itens com unidade só em número (ex.: \"5,00\") sem R$ na tabela estavam saindo com o preço trocado. Também corrigida a leitura de atas grandes que perdiam itens (unidade ficava em branco) e a Pesquisa de Preço, que podia não cotar nenhum item em algumas compras. Atualize para gerar requisições com os valores corretos."
+  "notas": "ATUALIZAÇÃO IMPORTANTE (a versão 1.2.4 subiu com o arquivo incompleto e não instalava — esta corrige isso). Também: o valor da Nota de Crédito era lido do campo errado; atas que não eram encontradas agora vêm do PNCP; o PDF do resultado saiu com o código e a descrição oficial do item; a unidade lida da ata estava errada em alguns itens; quando a base ainda não publicou o resultado, o programa busca no site; e a Pesquisa de Preço mostra no final um resumo com os itens que precisam de conferência."
 }
