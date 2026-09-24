@@ -1,5 +1,5 @@
 {
-  "versao": "1.2.5",
+  "versao": "1.2.6",
   "url": "https://github.com/lucasvbcampos/gerador-requisicoes/releases/latest/download/GeradorRequisicoes-Setup.exe",
-  "notas": "ATUALIZAÇÃO IMPORTANTE (a versão 1.2.4 subiu com o arquivo incompleto e não instalava — esta corrige isso). Também: o valor da Nota de Crédito era lido do campo errado; atas que não eram encontradas agora vêm do PNCP; o PDF do resultado saiu com o código e a descrição oficial do item; a unidade lida da ata estava errada em alguns itens; quando a base ainda não publicou o resultado, o programa busca no site; e a Pesquisa de Preço mostra no final um resumo com os itens que precisam de conferência."
+  "notas": "NOVO PROCESSO DE ADESÃO (UGNP): o programa agora gera o Estudo Técnico Preliminar (ETP) e a Matriz de Risco em PDF, no mesmo padrão do Compras.gov, e baixa o Edital junto com as atas. O Estudo de Viabilidade saiu (não é mais exigido). O Despacho do Comandante da adesão passou a autorizar a pesquisa de preço e o ETP. A Pesquisa de Preço foi refeita no layout do relatório oficial do Compras.gov. A tela agora se ajusta sozinha a qualquer tamanho de monitor ou janela — antes, em tela menor, botões e campos ficavam cortados. UG participante (UGP) continua igual."
 }
