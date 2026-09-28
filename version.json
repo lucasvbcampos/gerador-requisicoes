@@ -1,5 +1,5 @@
 {
-  "versao": "1.2.6",
+  "versao": "1.2.7",
   "url": "https://github.com/lucasvbcampos/gerador-requisicoes/releases/latest/download/GeradorRequisicoes-Setup.exe",
-  "notas": "NOVO PROCESSO DE ADESÃO (UGNP): o programa agora gera o Estudo Técnico Preliminar (ETP) e a Matriz de Risco em PDF, no mesmo padrão do Compras.gov, e baixa o Edital junto com as atas. O Estudo de Viabilidade saiu (não é mais exigido). O Despacho do Comandante da adesão passou a autorizar a pesquisa de preço e o ETP. A Pesquisa de Preço foi refeita no layout do relatório oficial do Compras.gov. A tela agora se ajusta sozinha a qualquer tamanho de monitor ou janela — antes, em tela menor, botões e campos ficavam cortados. UG participante (UGP) continua igual."
+  "notas": "ETP e MAPA DE GERENCIAMENTO DE RISCOS refeitos a partir dos modelos oficiais do Compras.gov de 2026 — o layout do ETP mudou (corpo maior, tabela de itens com 5 colunas) e a antiga Matriz de Risco foi substituída pelo Mapa de Gerenciamento de Riscos, que é o documento correto, com os riscos, impactos, ações preventivas e de contingência. Em Configurações há um campo novo para os outros responsáveis do Mapa."
 }
