@@ -1,5 +1,5 @@
 {
-  "versao": "1.2.8",
+  "versao": "1.2.9",
   "url": "https://github.com/lucasvbcampos/gerador-requisicoes/releases/latest/download/GeradorRequisicoes-Setup.exe",
-  "notas": "CORREÇÃO IMPORTANTE: itens que a base do governo devolvia como \"Em andamento\" (mesmo já homologados) eram pulados e ficavam de fora — numa requisição real 9 itens sumiram. Agora o programa busca esses itens no site do ComprasNet e não perde nenhum. A pesquisa de preço também passou a esperar entre as tentativas e a repescar no fim os itens que caírem por falha de rede. ETP, Mapa de Gerenciamento de Riscos e Pesquisa de Preço foram conferidos contra os modelos oficiais: negrito, tamanhos de fonte e assinatura agora idênticos. Logo da pesquisa de preço em alta resolução."
+  "notas": "ETP ajustado conforme mais um modelo oficial: a tabela de itens voltou a ter a coluna VALOR TOTAL, o nome do responsável agora fica alinhado embaixo da coluna Responsável, e o Decreto nº 10.543 voltou a ser clicável (em preto, como no original). Larguras das colunas recalculadas para nenhum valor quebrar em duas linhas."
 }
