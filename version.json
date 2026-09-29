@@ -1,5 +1,5 @@
 {
-  "versao": "1.2.9",
+  "versao": "1.3.0",
   "url": "https://github.com/lucasvbcampos/gerador-requisicoes/releases/latest/download/GeradorRequisicoes-Setup.exe",
-  "notas": "ETP ajustado conforme mais um modelo oficial: a tabela de itens voltou a ter a coluna VALOR TOTAL, o nome do responsável agora fica alinhado embaixo da coluna Responsável, e o Decreto nº 10.543 voltou a ser clicável (em preto, como no original). Larguras das colunas recalculadas para nenhum valor quebrar em duas linhas."
+  "notas": "CORREÇÃO: itens que o programa buscava no site (porque a base do governo os devolvia como \"Em andamento\") baixavam certo mas apareciam SEM o valor oficial no relatório de conferência — era um erro de nome de campo na gravação. Agora todos saem completos e conferidos. Além disso, a busca no site passou a tentar 3 vezes, recarregando a lista entre as tentativas: itens de número alto às vezes caíam na página errada e ficavam de fora."
 }
