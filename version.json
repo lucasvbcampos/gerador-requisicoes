@@ -1,5 +1,5 @@
 {
-  "versao": "1.3.0",
+  "versao": "1.3.1",
   "url": "https://github.com/lucasvbcampos/gerador-requisicoes/releases/latest/download/GeradorRequisicoes-Setup.exe",
-  "notas": "CORREÇÃO: itens que o programa buscava no site (porque a base do governo os devolvia como \"Em andamento\") baixavam certo mas apareciam SEM o valor oficial no relatório de conferência — era um erro de nome de campo na gravação. Agora todos saem completos e conferidos. Além disso, a busca no site passou a tentar 3 vezes, recarregando a lista entre as tentativas: itens de número alto às vezes caíam na página errada e ficavam de fora."
+  "notas": "CORREÇÃO IMPORTANTE NO ETP: o item 9 (Parcelamento) dizia que se optava PELO parcelamento — os modelos oficiais dizem exatamente o contrário. Reescrevi as seções 2, 4, 5, 6, 9, 11 e 15 com os textos dos 3 modelos do Compras.gov. O item 4 agora traz os subitens 4.1 a 4.4 com prazo de entrega, endereço, penalidades e e-mail; há campos novos em Configurações para esses dados."
 }
