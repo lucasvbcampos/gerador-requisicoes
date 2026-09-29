@@ -1,5 +1,5 @@
 {
-  "versao": "1.2.7",
+  "versao": "1.2.8",
   "url": "https://github.com/lucasvbcampos/gerador-requisicoes/releases/latest/download/GeradorRequisicoes-Setup.exe",
-  "notas": "ETP e MAPA DE GERENCIAMENTO DE RISCOS refeitos a partir dos modelos oficiais do Compras.gov de 2026 — o layout do ETP mudou (corpo maior, tabela de itens com 5 colunas) e a antiga Matriz de Risco foi substituída pelo Mapa de Gerenciamento de Riscos, que é o documento correto, com os riscos, impactos, ações preventivas e de contingência. Em Configurações há um campo novo para os outros responsáveis do Mapa."
+  "notas": "CORREÇÃO IMPORTANTE: itens que a base do governo devolvia como \"Em andamento\" (mesmo já homologados) eram pulados e ficavam de fora — numa requisição real 9 itens sumiram. Agora o programa busca esses itens no site do ComprasNet e não perde nenhum. A pesquisa de preço também passou a esperar entre as tentativas e a repescar no fim os itens que caírem por falha de rede. ETP, Mapa de Gerenciamento de Riscos e Pesquisa de Preço foram conferidos contra os modelos oficiais: negrito, tamanhos de fonte e assinatura agora idênticos. Logo da pesquisa de preço em alta resolução."
 }
